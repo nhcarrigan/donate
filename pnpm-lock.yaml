@@ -65,8 +65,8 @@ devDependencies:
     specifier: 16.2.0
     version: 16.2.0(@angular/compiler@16.2.0)(typescript@5.1.3)
   '@types/jasmine':
-    specifier: 4.6.2
-    version: 4.6.2
+    specifier: 4.6.3
+    version: 4.6.3
   '@typescript-eslint/eslint-plugin':
     specifier: 6.12.0
     version: 6.12.0(@typescript-eslint/parser@6.12.0)(eslint@8.54.0)(typescript@5.1.3)
@@ -2595,8 +2595,8 @@ packages:
       '@types/node': 20.6.3
     dev: true
 
-  /@types/jasmine@4.6.2:
-    resolution: {integrity: sha512-1JpgHd7kIaggg8er9h6GCf82ZI0yzCAKjx3rXTuvuZlLqxKj6hqqr7qcDPjQw2791y/AX7XLTahLyZdgnZLlog==}
+  /@types/jasmine@4.6.3:
+    resolution: {integrity: sha512-2k9bf3a0Z7N+RK8awBxLj+go4ktZCLi9QGRsEHNPl28Q2Usdj5veTJM85qmtpmBWMnMBSqD1uQJS1T7Zjjcn+A==}
     dev: true
 
   /@types/json-schema@7.0.13:
